@@ -12,8 +12,8 @@ local AutoHeadshotEnabled = true
 local AutoReloadEnabled   = true   
 local GunAuraAllMobs      = true    
 
-local SEARCH_RADIUS       = 150     
-local HEADSHOT_DELAY      = 0.15    
+local SEARCH_RADIUS       = 200     
+local HEADSHOT_DELAY      = 0.06 
 
 local SupportedWeapons = {
     "Revolver",
